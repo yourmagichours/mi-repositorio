@@ -189,16 +189,14 @@ a{
 
 /*banners*/
 .xiaomi_banner{
-    width: 700px;
+    width: 630px;
 }
 .samsung_banner{
-    width: 700px;
-    position: relative;
-    right: px;
+    width: 630px;
     top: 0.2px;
 }
 .banner_celulares{
-    width: 698px;
+    width: 631px;
 }
 
 @media screen and (max-width: 1600px){
